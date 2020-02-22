@@ -1,6 +1,6 @@
 # Typing Game
 
-#### A typing speed game, 02.20.2020\_
+#### A typing speed game, 02.20.2020
 
 #### By _**Andrew Philpott, Sasa Schwartz, Jiwon Han, Jack Dunning**_
 
