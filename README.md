@@ -14,7 +14,7 @@ This application allows you to see how fast you're typing, as well as race again
 * Jack: Jest testing, HTML construction, traffic light animation
 * Jiwon: API utilization, visual interactive keyboard
 
-  Team members contributed beyond their areas of responsibility. The areas listed above outline the largest contributors in each part of the project.
+  All team members contributed beyond their areas of responsibility. The areas listed above outline the largest contributors in each part of the project.
 
 ## Specs
 
