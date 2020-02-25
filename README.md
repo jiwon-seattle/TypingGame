@@ -2,7 +2,7 @@
 
 #### A typing speed game, 02.20.2020
 
-#### By _**Andrew Philpott, Sasa Schwartz, Jiwon Han, Jack Dunning**_
+#### By _**Jiwon Han, Andrew Philpott, Sasa Schwartz, Jack Dunning**_
 
 ## Description
 
@@ -99,7 +99,7 @@ This application allows you to see how fast you're typing, as well as race again
 
 ## Support and contact details
 
-- Issues or concerns? Contact us at andrewphilpott92@gmail.com
+- Issues or concerns? Contact us at jiwon1.han@gmail.com.
 
 ## Technologies Used
 
