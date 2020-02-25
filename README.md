@@ -95,7 +95,7 @@ This application allows you to see how fast you're typing, as well as race again
 
 ## Known Bugs
 
-- No known bugs
+- No known bugs at this time.
 
 ## Support and contact details
 
